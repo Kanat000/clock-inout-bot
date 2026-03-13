@@ -1,63 +1,10 @@
 {
   "users": [
     {
-      "id": 979155145,
-      "first_name": "Kanekee",
-      "username": "qaneekee",
+      "id": 123456789,
+      "first_name": "John",
+      "username": "Snow",
       "type": "private"
     },
-    { "id": 5883634786, "first_name": ".", "type": "private" },
-    {
-      "id": 972889314,
-      "first_name": "Ayaulym",
-      "username": "your_meowuse",
-      "type": "private"
-    },
-    { "id": 788826724, "first_name": "Nurs", "type": "private" },
-    {
-      "id": 885235213,
-      "first_name": "Rannie",
-      "username": "ranomaisanova",
-      "type": "private"
-    },
-    { "id": 5769279153, "first_name": "RustamOralkanov", "type": "private" },
-    {
-      "id": 860991388,
-      "first_name": "Tima",
-      "username": "arystanovv",
-      "type": "private"
-    },
-    {
-      "id": 417521765,
-      "first_name": "Salauat⚡",
-      "username": "salauatazh",
-      "type": "private"
-    },
-    {
-      "id": 641467354,
-      "first_name": "Darkhan",
-      "username": "MentalLin",
-      "type": "private"
-    },
-    {
-      "id": 6432523282,
-      "first_name": "Арна",
-      "username": "ospvrna",
-      "type": "private"
-    },
-    {
-      "id": 1135544181,
-      "first_name": "Куаныш",
-      "last_name": "Канатулы",
-      "username": "knurkassymov",
-      "type": "private"
-    },
-    {
-      "id": 5102877886,
-      "first_name": "Al",
-      "last_name": "Khimik",
-      "username": "oathis",
-      "type": "private"
-    }
   ]
 }
